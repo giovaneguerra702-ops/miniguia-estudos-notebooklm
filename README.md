@@ -11,7 +11,7 @@ https://www.1v1me.com/blog/black-ops-7-weapon-build-codes-explained
 https://timesaver.gg/blog/bo7-best-attachments
 
 # Resumo
-Como o projeto limita a poucas fontes, a resposta deixa de dar detalhes muitos específicos, apenas de maneira geral
+Como o projeto limita a poucas fontes, a resposta deixa de dar detalhes muitos específicos.
 O Black Ops 7 introduziu mecânicas que aprofundam a personalização e a eficiência competitiva, centradas em três pilares principais:
 1. Sistema de Prestígio de Arma e Acessórios Exclusivos
 Diferente de títulos anteriores, o Prestígio de Arma agora oferece vantagens tangíveis de jogabilidade em vez de apenas cosméticos
