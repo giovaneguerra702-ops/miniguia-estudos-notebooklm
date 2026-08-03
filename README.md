@@ -53,9 +53,11 @@ Velocidade de Projétil (Bullet Velocity): A rapidez com que a bala viaja; essen
 .
 Mobilidade de Disparo (Strafe Speed): A velocidade com que o jogador se move lateralmente enquanto mira; melhorada por acessórios como a coronha Wander-3V
 
-
 # Exemplos de prompts:
 ( "=>", seria a resposta do LLM)
 .Liste todas as armas do jogo => Nomeia as armas e as separa em classes
 .Como copiar uma classe com acessórios => Ensina sobre a função copiar código, para poder importar uma arma que alguém montou
 .Crie uma classe de smg com pouco recuo => Recomenda algumas smgs, passando os acessórios necessários para que a arma obtenha pouco recuo, passando ate o código para copiar a classe dentro do jogo de maneira mais rápida
+
+# Link do LLM
+https://notebook.google.com/notebook/ed1af56b-0f5c-4bdc-9606-30655c5a13d3
